@@ -12,7 +12,18 @@ pip install -r requirements.txt
 ```
 
 ## Quickstart
-```
+```shell
 bash scripts/decode.sh
 bash scripts/extract.sh
 bash scripts/eval_sc.sh
+```
+
+## Citation
+```
+@article{xie2024calibrating,
+  title={Calibrating Reasoning in Language Models with Internal Consistency},
+  author={Xie, Zhihui and Guo, Jizhou and Yu, Tong and Li, Shuai},
+  journal={arXiv preprint arXiv:2405.18711},
+  year={2024}
+}
+```
