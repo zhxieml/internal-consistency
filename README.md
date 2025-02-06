@@ -1,9 +1,3 @@
-# internal-consistency
-https://arxiv.org/abs/2405.18711
-
-We are now refactoring the code. Stay tuned!
-
-
 # Internal Consistency
 
 This is the source code accompanying [Calibrating Reasoning in Language Models with Internal Consistency](https://arxiv.org/abs/2405.18711).
